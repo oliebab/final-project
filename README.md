@@ -57,3 +57,7 @@ The Music Recommender App is a personalized music recommendation system develope
 - [ ] Use related artists to expand recommendations
 - [ ] Enhance error handling
 - [ ] Optimize performance
+
+## Links
+- Presentation : https://docs.google.com/presentation/d/1IXFF2OvVF8Krz0sYycRnMDoCh-OUlgMf6Ges8M1iiBE/edit#slide=id.g312729603b6_2_12
+- Kaggle : https://www.kaggle.com/datasets/mrmorj/spotify-audio-features-2023
