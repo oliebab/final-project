@@ -4,6 +4,8 @@ data/
 data-extracts/
 split_by_genre/
 split_by_genre_no_subgenre/
+sql_data/
+flask-api/data/
 
 # Ignore cache and other temporary files
 __pycache__/
