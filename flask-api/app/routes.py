@@ -5,7 +5,7 @@ from flask import render_template_string
 from flask import Blueprint
 import contextlib
 
-bp = Blueprint('api', __name__, url_prefix='/api')
+bp = Blueprint('api', __name__)
 
 def get_db_connection():
     """Get a fresh database connection"""
